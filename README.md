@@ -1,12 +1,12 @@
 # Learning rust from scratch
-## Reasons for learning rust![img.png](../img.png)
+## Reasons for learning rust
 * Adventure
 * Safety of code
 * Extending functionality of python to perform fast and efficient functions.
 * Learning a new way of thinking and solving problems
 * Desire to write highly scalable and fast code
 
-## Sources used in my endeavour ![img_1.png](../img_1.png)
+## Sources used in my endeavour
 * [Ruslings](https://github.com/rust-lang/rustlings)
 * [Rust in Action Book by manning publishers](https://www.amazon.com/Rust-Action-TS-McNamara/dp/1617294551)
 * [Comprehensive rust by google](https://google.github.io/comprehensive-rust/structure.html)
