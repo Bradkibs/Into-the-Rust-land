@@ -1,0 +1,5 @@
+issue tracker
+simple minimal in memory issue tracker
+crud api using rust.
+use rust google docs
+web server and building api's in rust

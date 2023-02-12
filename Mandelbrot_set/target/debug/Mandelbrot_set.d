@@ -1,0 +1,1 @@
+C:\Users\Bradl\Desktop\Into\ the\ Rust\ land\Into-the-Rust-land\Mandelbrot_set\target\debug\Mandelbrot_set.exe: C:\Users\Bradl\Desktop\Into\ the\ Rust\ land\Into-the-Rust-land\Mandelbrot_set\src\main.rs
