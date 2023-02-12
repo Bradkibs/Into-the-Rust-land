@@ -21,7 +21,7 @@ A black and white madelbrot set will be used to display a simple CLI set.
 It uses 3 main functions:
 * mandelbrot_at_point - called at every point to determine if it is in the set or not
 * calculate_mandelbrot - converts between the output space and a range that surrounds the mandelbrot set.
-* render_mandelbrot - Displays various shapes to represent the mandelbrot set
+* render_mandelbrot - uses various ascii characters to represent the mandelbrot set
 
 An output txt file containing the mandelbrot set is generated once the program is run
 Please check it out [mandelbrot.txt](mandelbrot.txt)
